@@ -1,0 +1,37 @@
+{
+  "exams": [
+    {
+      "id": "15a8",
+      "examId": "1001",
+      "examName": "java",
+      "questions": [
+        {
+          "question": "what is java",
+          "options": [
+            "language",
+            "framework",
+            "module",
+            "libraries"
+          ],
+          "correctAnswer": "language"
+        },
+        {
+          "question": "what is jvm",
+          "options": [
+            "java virtual component",
+            "java virtual libraries",
+            "java virtual machine",
+            "none of the above"
+          ],
+          "correctAnswer": "java virtual machine"
+        }
+      ]
+    },
+    {
+      "id": "e971",
+      "examId": "1002",
+      "examName": "python"
+    }
+  ],
+  "examname": []
+}
